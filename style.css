@@ -1,0 +1,33 @@
+.main{height: 1000px;
+width: 1100px;
+background-color: antiquewhite;
+border: 0px solid black;
+position:relative;
+left: 170px;
+margin-left: 21px;}
+.class{height: 50%;
+width: 50%;
+background-color: aqua;
+position: absolute;
+left: 25%;
+bottom:20%;
+border-radius: 50%;}
+#round{border: 0ch;
+border-radius: 50%;}
+html{border: 5px  black;
+background-color: brown;}
+#mainh1{margin: 0%;
+padding: 0%;
+background-color: brown;
+color: rgb(43, 255, 0);
+font-size: 2rem;
+font-family: fantasy;}
+#mainp1{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 2rem;
+color: rgb(11, 184, 34);
+margin: 0px;}
+h1{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(202, 233, 23);}
+.h2{font-family: fantasy;
+color: rgb(18, 20, 17);
+text-align: end;}
